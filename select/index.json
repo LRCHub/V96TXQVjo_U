@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ものもらい (BACK TO THE LIVE HOUSE TOUR 2023 Live at Zepp Fukuoka [2023/7/11])",
+  "base_artist": "Radwimps",
+  "createdAt": "2025-12-30T14:53:56.663802Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ものもらい",
+      "artist": "RADWIMPS",
+      "has_synced": false,
+      "path": "select/pl_01_ものもらい_RADWIMPS.txt"
+    }
+  ]
+}
